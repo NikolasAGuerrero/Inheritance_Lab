@@ -1,2 +1,2 @@
 # Inheritance_Lab
-Even more bank account stuff!
+More learning for class!
